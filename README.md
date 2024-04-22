@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-# monografia
-DVA, CVM, 2010 - 2023.
-=======
 # ANÁLISE DA DVA DAS EMPRESAS DE CAPITAL ABERTO: 2010 À 2023.
 ### Autor: Felipe Alves de Morais
 #### 2024
 
 ----
 
-#### Exemplo da estrutura da DVA considerada no estudo:
+### Exemplo da estrutura da DVA considerada no estudo:
 
 | CONTA                                     |       VALOR       |
 | :--- | ---: |
@@ -37,12 +33,17 @@ DVA, CVM, 2010 - 2023.
 | Participação de Não Controladores nos Lucros Retidos | R$ 2.218.928 |
 | **Outros**                                |   **R$ 0**       |
 
-BCO BRASIL S.A. - 00.000.000/0001-91 - DF Consolidado - DVA.			
-MOEDA: Real. ESCALA DA MOEDA: Mil.			
-DATA DE REFERÊNCIA: 31/12/2022.			
+BCO BRASIL S.A. - 00.000.000/0001-91 - DF Consolidado - DVA.<br>			
+MOEDA: Real. ESCALA DA MOEDA: Mil.		<br>	
+DATA DE REFERÊNCIA: 31/12/2022.			<br>
 
 ----
 
+Pair Plot - DVA 2010 à 2023
+<br>
+Obs.:<br>
+RCP = Remunerações do Capital Próprio. <br>
+RCT = Remunerações do Capital de Terceiros. <br>
+
 ![Pair Plot DVA 2010 à 2023](/plots/time-serie-2010-2023.png)
 
->>>>>>> ee7c8ba (Atualizando o README)
