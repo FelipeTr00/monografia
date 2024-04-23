@@ -45,5 +45,5 @@ Obs.:<br>
 RCP = Remunerações do Capital Próprio. <br>
 RCT = Remunerações do Capital de Terceiros. <br>
 
-![Pair Plot DVA 2010 à 2023](/plots/time-serie-2010-2023.png)
+![Pair Plot DVA 2010 à 2023](/plots/Timeserie.png)
 
