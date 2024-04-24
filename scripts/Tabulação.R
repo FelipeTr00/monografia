@@ -1,5 +1,5 @@
 #Tabulação
-setwd("/home/morais/Desktop/DVA_ANALISE")
+setwd("/home/mrs/Documents/monografia/dados")
 pacman::p_load(dplyr, tidyr, psych, rpivotTable, summarytools)
 dados <- read.csv2("dva_wide_ipca.csv", sep = "," ,dec = ".")
 View(dados)
