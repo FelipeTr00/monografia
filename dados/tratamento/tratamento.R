@@ -12,5 +12,6 @@ View(df)
 rows <- c("CD_CONTA", "DS_CONTA")
 
 tabela_html <- rpivotTable(df, rows = rows, cols = "ANO")
+tabela_html
 
 
