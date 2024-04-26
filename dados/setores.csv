@@ -1,33 +1,33 @@
-SETOR_ATIV;SETOR_ECON
-Agricultura (Açúcar Álcool e Cana);Primário
-Alimentos;Secundário
-Arrendamento Mercantil;Terciário
-Bancos;Terciário
-Bebidas e Fumo;Secundário
-Bolsas de Valores/Mercadorias e Futuros;Terciário
-Brinquedos e Lazer;Secundário
-Comércio (Atacado e Varejo);Terciário
-Comunicação e Informática;Terciário
-Construção Civil Mat. Constr. e Decoração;Secundário
-Crédito Imobiliário;Terciário
-Educação;Terciário
-Embalagens;Secundário
-Energia Elétrica;Secundário
-Extração Mineral;Primário
-Farmacêutico e Higiene;Terciário
-Gráficas e Editoras;Terciário
-Hospedagem e Turismo;Terciário
-Intermediação Financeira;Terciário
-Máquinas Equipamentos Veículos e Peças;Secundário
-Metalurgia e Siderurgia;Secundário
-Papel e Celulose;Secundário
-Petróleo e Gás;Secundário
-Petroquímicos e Borracha;Secundário
-Saneamento Serv. Água e Gás;Terciário
-Securitização de Recebíveis;Terciário
-Seguradoras e Corretoras;Terciário
-Sem Setor Principal;Sem Setor Principal
-Serviços Médicos;Terciário
-Serviços Transporte e Logística;Terciário
-Telecomunicações;Terciário
-Têxtil e Vestuário;Secundário
+SETOR_ATIV,SETOR_ECON
+Agricultura (Açúcar Álcool e Cana),Primário
+Alimentos,Secundário
+Arrendamento Mercantil,Terciário
+Bancos,Terciário
+Bebidas e Fumo,Secundário
+Bolsas de Valores/Mercadorias e Futuros,Terciário
+Brinquedos e Lazer,Secundário
+Comércio (Atacado e Varejo),Terciário
+Comunicação e Informática,Terciário
+Construção Civil Mat. Constr. e Decoração,Secundário
+Crédito Imobiliário,Terciário
+Educação,Terciário
+Embalagens,Secundário
+Energia Elétrica,Secundário
+Extração Mineral,Primário
+Farmacêutico e Higiene,Terciário
+Gráficas e Editoras,Terciário
+Hospedagem e Turismo,Terciário
+Intermediação Financeira,Terciário
+Máquinas Equipamentos Veículos e Peças,Secundário
+Metalurgia e Siderurgia,Secundário
+Papel e Celulose,Secundário
+Petróleo e Gás,Secundário
+Petroquímicos e Borracha,Secundário
+Saneamento Serv. Água e Gás,Terciário
+Securitização de Recebíveis,Terciário
+Seguradoras e Corretoras,Terciário
+Sem Setor Principal,Sem Setor Principal
+Serviços Médicos,Terciário
+Serviços Transporte e Logística,Terciário
+Telecomunicações,Terciário
+Têxtil e Vestuário,Secundário

@@ -24,11 +24,11 @@ pessoal <- dados %>%  filter(DS_CONTA == "Receitas")
 # Agregar os dados por ANO e DS_CONTA
 pessoal_agregado <- pessoal %>%
   group_by(ANO, DS_CONTA) %>%
-  summarise(VL_CONTA = sum(VL_CONTA)/10000,
-            VL_IGPM = sum(VL_IGPM)/10000,
-            VL_IGPDI = sum(VL_IGPDI)/10000,
-            VL_IPCA = sum(VL_IPCA)/10000,
-            VL_INPC = sum(VL_MEDIO)/10000)
+  summarise(VL_CONTA = sum(VL_CONTA)/1000000000,
+            VL_IGPM = sum(VL_IGPM)/1000000000,
+            VL_IGPDI = sum(VL_IGPDI)/1000000000,
+            VL_IPCA = sum(VL_IPCA)/1000000000,
+            VL_INPC = sum(VL_MEDIO)/1000000000)
 
 
 # GRÁFICO RECEITAS
@@ -64,7 +64,8 @@ legend("bottomright",
 
 # GRÁFICO PESSOAL
 # Encontre o valor máximo entre as três colunas
-max_y <- max(max(pessoal_agregado$VL_CONTA), max(pessoal_agregado$VL_IGPM), max(pessoal_agregado$VL_IPCA))
+max_y <- max(max(pessoal_agregado$VL_CONTA),
+             max(pessoal_agregado$VL_IGPM), max(pessoal_agregado$VL_IPCA))
 
 # Crie o gráfico vazio usando plot() com o primeiro conjunto de dados
 plot(pessoal_agregado$ANO,
@@ -75,6 +76,10 @@ plot(pessoal_agregado$ANO,
      ylim = c(0, max_y)  # Definir limite do eixo y
 )
 
+# Define os valores do eixo X
+anos_unicos <- unique(pessoal_agregado$ANO)
+axis(1, at = anos_unicos, labels = anos_unicos)
+
 # Adicione as linhas com diferentes símbolos
 lines(pessoal_agregado$ANO, pessoal_agregado$VL_CONTA,
       type = "l", col = "black", lwd = 3)                 # NA
@@ -84,6 +89,8 @@ lines(pessoal_agregado$ANO, pessoal_agregado$VL_INPC,
       type = "b", col = "black", pch = 4, lwd = 2)        # QUADRADO
 lines(pessoal_agregado$ANO, pessoal_agregado$VL_IPCA,
       type = "b", col = "black", pch = 0, lwd = 2)        # XIS
+#lines(pessoal_agregado$ANO, pessoal_agregado$VL_IGPDI,   
+#       type = "b", col = "black", pch = 1, lwd = 2)      # CIRCULO
 
 # Adicione uma legenda
 legend("bottomright", 
@@ -92,3 +99,6 @@ legend("bottomright",
        pch = c(NA, 2, 0,4),  # Símbolos correspondentes
        lty = 1,
        lwd = 2)
+
+
+

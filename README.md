@@ -50,8 +50,11 @@ RCT = Remunerações do Capital de Terceiros.
 
 ### Inflação (Conta Pessoal = Salários)
 
-![Inflação](/plots/inflacao_pessoal.png)
+![Inflação](/plots/inflacao.png)
 Obs.: escala R$ 10M.
 
 ---
 
+### Scatter Plot Correlação
+
+![Scatterplot](/plots/scatterplot.png)
