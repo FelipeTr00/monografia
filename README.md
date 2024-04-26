@@ -33,23 +33,23 @@
 | Participação de Não Controladores nos Lucros Retidos | R$ 2.218.928 |
 | **Outros**                                |   **R$ 0**       |
 
-BCO BRASIL S.A. - 00.000.000/0001-91 - DF Consolidado - DVA.<br>			
-MOEDA: Real. ESCALA DA MOEDA: Mil.		<br>	
-DATA DE REFERÊNCIA: 31/12/2022.			<br>
+BCO BRASIL S.A. - 00.000.000/0001-91 - DF Consolidado - DVA.			
+MOEDA: Real. ESCALA DA MOEDA: Mil.		
+DATA DE REFERÊNCIA: 31/12/2022.			
 
 ----
 
 # Pair Plot - DVA 2009 à 2023
-<br>
-![Pair Plot DVA 2010 à 2023](/plots/Timeserie.png)<br>
-Obs.:<br>
-RCP = Remunerações do Capital Próprio. <br>
-RCT = Remunerações do Capital de Terceiros. <br>
+![Pair Plot DVA 2010 à 2023](/plots/Timeserie.png)
+
+Obs.:
+RCP = Remunerações do Capital Próprio.
+RCT = Remunerações do Capital de Terceiros.
 
 ----
 
 # Inflação (Conta Pessoal = Salários)
-<br>
+
 ![Inflação](/plots/inflacao_pessoal.png)
 
 ---
