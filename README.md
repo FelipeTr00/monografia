@@ -39,7 +39,7 @@ DATA DE REFERÊNCIA: 31/12/2022.
 
 ----
 
-# Pair Plot - DVA 2009 à 2023
+### Pair Plot - DVA 2009 à 2023
 ![Pair Plot DVA 2010 à 2023](/plots/Timeserie.png)
 
 Obs.:
@@ -48,9 +48,10 @@ RCT = Remunerações do Capital de Terceiros.
 
 ----
 
-# Inflação (Conta Pessoal = Salários)
+### Inflação (Conta Pessoal = Salários)
 
 ![Inflação](/plots/inflacao_pessoal.png)
 Obs.: escala R$ 10M.
 
 ---
+
