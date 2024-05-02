@@ -1,0 +1,90 @@
+Coluna;Ano
+Natureza Jurídica;2022;Total
+Poder Executivo Federal;364940;364940
+Poder Executivo Estadual ou Distrito Federal;2346868;2346868
+Poder Executivo Municipal;4630177;4630177
+Poder Legislativo Federal;23101;23101
+Poder Legislativo Estadual ou Distrito Federal;72884;72884
+Poder Legislativo Municipal;145745;145745
+Poder Judiciário Federal;112571;112571
+Poder Judiciário Estadual;168097;168097
+Autarquia Federal;293175;293175
+Autarquia Estadual ou Distrito Federal;228545;228545
+Autarquia Municipal;102505;102505
+Fundação Federal;136979;136979
+Fundação Estadual ou Distrito Federal;79449;79449
+Fundação Municipal;40165;40165
+Órgão Público Autônomo Federal;6889;6889
+Órgão Público Autônomo Estadual ou Distrito Federal;27215;27215
+Órgão Autônomo Municipal;2385;2385
+Associação Pública;19520;19520
+Consórcio Público de Direito Privado;3721;3721
+Estado ou Distrito Federal;352;352
+Município;800300;800300
+Fundação Pública de Direito Privado Federal;10;10
+Fundação Pública de Direito Privado Estadual ou do Distrito Federal;16399;16399
+Fundação Pública de Direito Privado Municipal;48450;48450
+Fundo Público da Administração Indireta Municipal;1722;1722
+Fundo Público da Administração Direta Federal;1332;1332
+Fundo Público da Administração Direta Estadual ou do Distrito Federal;22709;22709
+Fundo Público da Administração Direta Municipal;136851;136851
+Empresa Pública;412857;412857
+Sociedade Mista;318410;318410
+Sa Aberta;1733780;1733780
+Sa Fechada;4480480;4480480
+Sociedade Qt Ltda;26769232;26769232
+Sociedade Empresarial Nome Coletivo - a Partir Rais2008;1254;1254
+Sociedade Comandita Simples;144;144
+Sociedade Comandita por Ações;22;22
+Sociedade em Conta de Participação;291;291
+Firma Mercantil Individual;2637367;2637367
+Cooperativa;551309;551309
+Consórcio Empresas;86885;86885
+Grupo Sociedade;81;81
+Filial, Sucursal ou Agência de Emprego Sediada Exterior;10163;10163
+Filial, Empresa Binacional, Argentino-Brasileira;188;188
+Empresa Domiciliada no Exterior;6;6
+Sociedade Simples Pura;123180;123180
+Sociedade Simples Ltda;471232;471232
+Sociedade Simples Nome Coletivo;346;346
+Sociedade Simples Comandita Simples;41;41
+Empresa Binacional;1290;1290
+Consórcio de Empregadores;3743;3743
+Empresa Individual de Responsabilidade Ltda (De Natureza Empresária);50211;50211
+Empresa Individual de Responsabilidade Ltda (De Natureza Simples);266;266
+Sociedade Unipessoal de Advocacia;14194;14194
+Cooperativas de Consumo;92;92
+Empresa Simples de Inovacao - Inova Simples;4;4
+Cartório;28981;28981
+Outros Fundação Privada;331321;331321
+Serviço Social Autônomo;177392;177392
+Condomínio Edifícios;550478;550478
+Entidade Mediação e Arbitragem;32;32
+Entidade Social 07 - Até Rais2007;121095;121095
+Filial Fundação Estrangeira;291;291
+Organização Religiosa;83182;83182
+Comunidade Indígena;2;2
+Órgão de Direção Nacional de Partido Político;449;449
+Órgão de Direção Regional de Partido Político;931;931
+Órgão de Direção Local de Partido Político;162;162
+Organização Social (Os);16241;16241
+Demais Condomínios;1;1
+Outras Organizações - Associação Privada;2241168;2241168
+Empresa Individual Imobiliária;3467;3467
+Segurado Especial;10936;10936
+Contribuinte Individual com Empregado;0;0
+Construção Civil Pessoa Física;599;599
+Contribuinte Individual 07 - Até Rais2007;192674;192674
+Candidato Cargo Político Eletivo;23;23
+Leiloeiro;381;381
+Produtor Rural (Pessoa Física);218278;218278
+Organização Internacional;409;409
+Representação Diplomática Estrangeira;1900;1900
+Outras Instituições Extraterritoriais;432;432
+Não Informado;1309915;1309915
+Total;52790864;52790864
+
+Seleções vigentes
+Variável;Critério;Valor
+Ano;igual a;2022
+Ind Rais Negativa;igual a;Não
